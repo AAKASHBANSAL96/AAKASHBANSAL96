@@ -1,5 +1,5 @@
 # About 
-- I am a Full Stack Developer with 2+ years of experience in developing enterprise applications and open-source software.
+- I am a Full Stack Developer with 2+ years of experience developing web applications and APIs.
 
 
 
