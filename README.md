@@ -1,5 +1,6 @@
-# Aakash Bansal 
-I'm Full-stack developer
+# About 
+- I am a Full Stack Developer with 2+ years of experience in developing enterprise applications and open-source software.
+
 
 
 ### Languages
@@ -27,25 +28,26 @@ I'm Full-stack developer
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
 ### 📢 Find me elsewhere
-<p align="left">
+<div align="left">
+  
   <a href="https://leetcode.com/aakash962002/">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" height=30 width=30 style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/abhishekmaira191">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height=30 width=30 alt="leetcode"  style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  <a href="https://www.hackerrank.com/aakash962002">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=35 width=35 alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.codingninjas.com/studio/profile/AakashBansal">
+    <img src="https://files.codingninjas.in/new-cn-logos-29256.svg" alt="codewars" height=40 width=100 style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
-</p>
+  
+  <a href="https://www.linkedin.com/in/aakash-bansal-82a103206/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height=30 width=100 alt="codewars" height=40 width=100 style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+  
+</div>
 
----
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
----
 <!---
 AAKASHBANSAL96/AAKASHBANSAL96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
