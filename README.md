@@ -1,7 +1,8 @@
 # About 
 - I am a Full Stack Developer with 2+ years of experience developing web applications and APIs.
 
-
+# Achievement 
+[![An image of @aakashbansal96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aakashbansal96)](https://holopin.io/@aakashbansal96)
 
 ### Languages
 
@@ -29,7 +30,6 @@
 
 ### 📢 Find me elsewhere
 <div align="left">
-  
   <a href="https://leetcode.com/aakash962002/">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height=30 width=30 alt="leetcode"  style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -45,8 +45,8 @@
   <a href="https://www.linkedin.com/in/aakash-bansal-82a103206/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height=30 width=100 alt="codewars" height=40 width=100 style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
-  
 </div>
+
 
 <!---
 AAKASHBANSAL96/AAKASHBANSAL96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
